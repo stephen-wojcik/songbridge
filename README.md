@@ -8,54 +8,25 @@ Song Bridge lets you easily convert song, album and artist URLs between your fav
 
 Woj3code Ltd built the Song Bridge app as a Free app. This SERVICE is provided by Woj3code Ltd at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+**Introduction**
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy outlines the practices of SongBridge, a music sharing app, and its commitment to protecting the privacy of its users. This policy applies to all users who access and use the app. By using SongBridge, you consent to the practices described in this policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Song Bridge unless otherwise defined in this Privacy Policy.
+**Data Collection**
 
-**Information Collection and Use**
+SongBridge does not collect any personal or identifying information from its users. The app only uses Google Firebase for basic usage statistics, such as the number of app launches, average session duration, and app crashes. This data is used to improve the app’s performance and user experience.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to None. The information that we request will be retained by us and used as described in this privacy policy.
+**Third-Party Services**
 
-**Log Data**
+SongBridge uses Google Firebase as its data analytics provider. Google Firebase collects, processes and stores data for the purpose of providing analytics services for SongBridge. Google Firebase’s privacy policy can be found at https://policies.google.com/privacy.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+**Data Security**
 
-**Cookies**
+SongBridge takes data security seriously and has implemented appropriate measures to secure user data. However, no method of data transmission or storage is 100% secure, and SongBridge cannot guarantee the complete security of any information transmitted through the app.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Changes to this Privacy Policy**
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-**Service Providers**
-
-We may employ third-party companies and individuals due to the following reasons:
-
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-**Security**
-
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
-
-**Changes to This Privacy Policy**
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2022-09-26
+SongBridge reserves the right to modify this Privacy Policy at any time. If changes are made, the updated policy will be posted on this page and the date of the last revision will be noted at the bottom of the page. By continuing to use the app after changes have been made, you agree to the updated Privacy Policy.
 
 **Contact Us**
 
